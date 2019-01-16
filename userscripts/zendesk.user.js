@@ -58,7 +58,7 @@ a.generating::after {
 }
 
 .lesa-ui-description {
-  font-weight: 100;
+  font-weight: normal;
 }
 
 .lesa-ui-event-highlighted {
